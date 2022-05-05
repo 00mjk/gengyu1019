@@ -10,20 +10,18 @@
 </table>
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Yii-informational?style=flat&logo=yii&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
@@ -52,13 +50,9 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
    </tr>
     <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/symfony-3-1174988.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
